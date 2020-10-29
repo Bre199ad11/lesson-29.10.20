@@ -32,6 +32,7 @@ void print_a(T* array, int size) {
 
 template <typename T>
 
+
 void bubble_sort(T* array, int size){
 	for (int i = size; i >= 0; i--) {
 		for (int j = 0; j < i - 1; j++) {
@@ -43,6 +44,7 @@ void bubble_sort(T* array, int size){
 		}
 	}
 }
+
 
 
 int main() {
