@@ -56,6 +56,8 @@ int main() {
 	print_a(b, 11);
 	
 }
+
+// это писал галанин->
 /*#include <iostream>
 #include <ctime>
 #include <string>
